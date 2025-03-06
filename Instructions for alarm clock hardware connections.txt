@@ -1,0 +1,15 @@
+				****INSTRUCTIONS TO SET UP HARDWARE*****
+1. The circuit diagram is attached in the delivery, please go through it carefully sir and ensure all connections are made right.
+
+2. I implemented an external power source as the nano 5v can't fully power up all the components at once, it probably can but in order not to damage the nano or encounter issues along the way i'd advise you use an external power source for those components just as i illustrated in the circuit diagram, there, i used a 9v battery and connected it to a 7805 voltage regulator that steps it down to 5v and ensured that they all were powered up by that particular power source and all had a common ground, if you don't understand this aspect please let me know i'm always available to you.
+
+3.All the libraries needed for this to run is attached in this delivery all you need to do i download them as zip folders and head to you arduino ide (*****please do not extract them*****) goto Sketch, then goto include library, then add .zip library, then you add each of the library to the ide.
+
+4.please for the DFMini player, upload your desired song into the SD card and please make the SD card empty with just the song in it as the code that runs it just plays the first thing it sees in the card.
+
+5. i attached a video demononstration of how to control and operate the system with just the encoder, please kindly watch it and let me know if you don't understand anything.
+
+i'm always here if you need further help, and glad you chose me, i hope i made you happy.
+please feel free to contact me via whatsap here if you want, but if you don't i totally understand,
+
++2347037631418
